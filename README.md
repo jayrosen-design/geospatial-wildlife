@@ -3,7 +3,7 @@
 # **Geospatial Florida Wildlife**
 ### *Google Geospatial AR Challenge*
 
-![Project Logo](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/geospatial-logo-300x300.png?raw=true)
+![Project Logo](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/geospatial-logo-300x300.png)
 
 Geospatial Florida Wildlife is an immersive Augmented Reality (AR) experience created for the **Google Geospatial AR Challenge**. This project pioneers geospatial gaming by offering an interactive journey through the diverse ecosystems of Central Florida.
 
@@ -57,11 +57,15 @@ Inspired by popular AR games like *Pokémon Go*, Geospatial Florida Wildlife inv
 ---
 
 ## **Screenshots**
-### Map of Geo-Fenced Locations
-![Florida Map](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/florida%20map.PNG?raw=true)
+### App Demonstration
+![Wild Boar and Alligator](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/hog-alligator.jpg)
 
-### Website Overview
-![Website Preview](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/website.png?raw=true)
+![Geospatial Map](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/geospatial-map.PNG)
+
+### Gameplay Snapshots
+![Gameplay at 2m7s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m7s.jpg)
+![Gameplay at 0m57s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m57s.jpg)
+![Gameplay at 0m1s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m1s.jpg)
 
 ---
 
@@ -86,5 +90,3 @@ This project was developed for educational purposes as part of the Google Geospa
 ## **APK & Repository**
 - **APK Download**: [Google Drive Link](https://drive.google.com/file/d/1g___h6-mN7Dh8AgbbVNj2arZQ99Cu6Kx/view?usp=sharing)  
 - **Repository**: [Google Drive Folder](https://drive.google.com/drive/folders/13EJqPu21glll_XnJaDQgFeutqVgBehPz?usp=sharing)
-
----
