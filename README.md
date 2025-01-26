@@ -58,14 +58,80 @@ Inspired by popular AR games like *Pokémon Go*, Geospatial Florida Wildlife inv
 
 ## **Screenshots**
 ### App Demonstration
-![Wild Boar and Alligator](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/hog-alligator.jpg)
+---
 
-![Geospatial Map](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/geospatial-map.PNG)
+## **Screenshots**
+### Gallery: App Demonstration & Gameplay
+
+<div align="center">
+
+![Wild Boar and Alligator](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/hog-alligator.jpg)  
+*Caption: Wild boar and alligator in AR.*
+
+![Geospatial Map](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/geospatial-map.PNG)  
+*Caption: Geospatial map with geo-fenced locations.*
+
+---
 
 ### Gameplay Snapshots
-![Gameplay at 2m7s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m7s.jpg)
-![Gameplay at 0m57s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m57s.jpg)
-![Gameplay at 0m1s](https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m1s.jpg)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m7s.jpg" alt="Gameplay 2m7s" width="300">
+      <br>Gameplay at 2m7s
+    </td>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m44s.jpg" alt="Gameplay 2m44s" width="300">
+      <br>Gameplay at 2m44s
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m42s.jpg" alt="Gameplay 2m42s" width="300">
+      <br>Gameplay at 2m42s
+    </td>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m20s.jpg" alt="Gameplay 2m20s" width="300">
+      <br>Gameplay at 2m20s
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%202m13s.jpg" alt="Gameplay 2m13s" width="300">
+      <br>Gameplay at 2m13s
+    </td>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%201m20s.jpg" alt="Gameplay 1m20s" width="300">
+      <br>Gameplay at 1m20s
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m57s.jpg" alt="Gameplay 0m57s" width="300">
+      <br>Gameplay at 0m57s
+    </td>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m47s.jpg" alt="Gameplay 0m47s" width="300">
+      <br>Gameplay at 0m47s
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m19s.jpg" alt="Gameplay 0m19s" width="300">
+      <br>Gameplay at 0m19s
+    </td>
+    <td align="center">
+      <img src="https://github.com/jayrosen-design/geospatial-wildlife/blob/main/app%20images/floridamon-3min-gameplay%20-%20frame%20at%200m1s.jpg" alt="Gameplay 0m1s" width="300">
+      <br>Gameplay at 0m1s
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 ---
 
